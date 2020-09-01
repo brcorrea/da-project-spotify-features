@@ -1,4 +1,4 @@
-## Spotify - User's like prediction and song's recommendation
+## Spotify - Like prediction and song's recommendation
 
 
 ### Dataset: song playlists fetched using Spotify API
